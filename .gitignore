@@ -22,6 +22,7 @@ __pycache__/
 
 # Environment / secrets
 .env
+.streamlit/secrets.toml
 
 # VS Code settings
 .vscode/
