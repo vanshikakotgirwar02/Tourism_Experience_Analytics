@@ -57,6 +57,11 @@ The datasets were combined during the preprocessing stage to create a unified to
 
 ---
 
+## Live Demo
+
+[🌍 Open Tourism Experience Analytics](https://tourismexperienceanalytics-2vorrmzp8qgbavgvsk7zke.streamlit.app)
+
+
 ## 🔄 Project Workflow
 
 The project was developed through the following stages:
